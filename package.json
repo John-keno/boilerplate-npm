@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"description": "boilerplate freeCodeCamp code on how to manage npm packages",
+	"author": "John Keno Iweh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
