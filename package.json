@@ -4,6 +4,7 @@
 	"description": "boilerplate freeCodeCamp code on how to manage npm packages",
 	"author": "John Keno Iweh",
 	"keywords": ["freecodecamp", "boilerplate", "Demo", "packages"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
